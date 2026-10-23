@@ -104,10 +104,10 @@
 
 <!-- Replace REPO_NAME with your real repo names -->
 <p align="center">
-  <a href="https://github.com/the-gautamsingh/REPO_NAME">
+  <a href="https://github.com/the-gautamsingh/sih-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-gautamsingh&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/the-gautamsingh/REPO_NAME_2">
+  <a href="https://github.com/the-gautamsingh/Ai_Vision_system_using_public_vehicles-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-gautamsingh&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
