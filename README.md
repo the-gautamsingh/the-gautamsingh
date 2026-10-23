@@ -113,6 +113,17 @@
 </p>
 
 ---
+🎯 Current Goals
+Build practical Machine Learning and Deep Learning projects.
+Strengthen Data Structures and Algorithms using C++.
+Develop and deploy real-world AI/ML applications.
+Contribute to open-source projects.
+Prepare for AI/ML engineering internships.
+🤝 Connect With Me
+
+<p align="center"> <a href="https://www.linkedin.com/in/the-gautamsingh/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /> </a> <a href="https://github.com/the-gautamsingh"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /> </a> </p>
+
+<p align="center"> <i>Learning, building, and improving one project at a time.</i> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
